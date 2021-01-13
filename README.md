@@ -27,7 +27,7 @@ My name is Mohamad Al Mdfaa. with over three years of Machine Learning and Softw
 
 You can get in touch with me at [mohamad.almdfaa@gmail.com](mohamad.almdfaa@gmail.com), [Linkedin](https://www.linkedin.com/in/mohamad-al-mdfaa/), and [Twitter](https://twitter.com/mohamadalmadfaa).
 
-If you have a project or something that you want me to work on, you can take your chance and reach me on [Upwork](https://www.upwork.com/freelancers/~01b27e1d505c87af0d) with a discount 25% for a limited amount of time :wink: (All you have to do is to mention to me that you caught me on GitHub).
+If you have a project or something that you want from me to work on, you can take your chance and reach me on [Upwork](https://www.upwork.com/freelancers/~01b27e1d505c87af0d) with a discount 25% for a limited amount of time :wink: (All you have to do is to mention to me that you caught me on GitHub).
 
 📈 My GitHub Stats
 
