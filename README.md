@@ -35,17 +35,17 @@ If you have a project or something that you want me to work on, you can take you
   
 If you like what I do, or you want to support me:
 
-<a href="bc1q5cjffml32qrvks3xd0hyau8jx3gf5cd04hrn77">
+Bitcoin address <a href="bc1q5cjffml32qrvks3xd0hyau8jx3gf5cd04hrn77">
   <img align="left" alt="Bitcoin" width="22px" src="https://raw.githubusercontent.com/mhd-medfa/mhd-medfa/main/assets/bitcoin.svg.png" />
-</a>
+</a> :
 <mark>bc1q5cjffml32qrvks3xd0hyau8jx3gf5cd04hrn77</mark>
 
-<a href="ltc1q9l4dr8jdtcakhe8qekep9lfwpgscpllxv5zy27">
+Litecoin address <a href="ltc1q9l4dr8jdtcakhe8qekep9lfwpgscpllxv5zy27">
   <img align="left" alt="Litecoin" width="22px" src="https://raw.githubusercontent.com/mhd-medfa/mhd-medfa/main/assets/litecoin.svg.png" />
-</a>
+</a>:
 <mark>ltc1q9l4dr8jdtcakhe8qekep9lfwpgscpllxv5zy27</mark>
 
-<a href="0x0006a16f43D0fdf480bCc88D4398Fe73D6806fc9">
+Tether address <a href="0x0006a16f43D0fdf480bCc88D4398Fe73D6806fc9"> 
   <img align="left" alt="TetherUSD" width="22px" src="https://raw.githubusercontent.com/mhd-medfa/mhd-medfa/main/assets/tether.svg" />
-</a>
+</a>:
 <mark>0x0006a16f43D0fdf480bCc88D4398Fe73D6806fc9</mark>
