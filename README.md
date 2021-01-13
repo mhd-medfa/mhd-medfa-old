@@ -33,12 +33,12 @@ If you have a project or something that you want me to work on, you can take you
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mhd-medfa&show_icons=true&theme=default" alt="mhd-medfa" />
   
-If you like what I do, or you want to support me:
+### If you like what I do and you want to support me:
 
 Bitcoin address: <a href="bc1q5cjffml32qrvks3xd0hyau8jx3gf5cd04hrn77">
   <img align="left" alt="Bitcoin" width="22px" src="https://raw.githubusercontent.com/mhd-medfa/mhd-medfa/main/assets/bitcoin.svg.png" />
 </a>
-<mark>bc1q5cjffml32qrvks3xd0hyau8jx3gf5cd04hrn77</mark>
+<mark>`bc1q5cjffml32qrvks3xd0hyau8jx3gf5cd04hrn77`</mark>
 
 Litecoin address: <a href="ltc1q9l4dr8jdtcakhe8qekep9lfwpgscpllxv5zy27">
   <img align="left" alt="Litecoin" width="22px" src="https://raw.githubusercontent.com/mhd-medfa/mhd-medfa/main/assets/litecoin.svg.png" />
