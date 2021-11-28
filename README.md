@@ -24,30 +24,18 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mhd-medfa.mhd-medfa)
 <hr>
 
-My name is Mohamad Al Mdfaa. with over three years of Machine Learning and Software development experience at various companies like [L-One Systems GmbH](https://l-one.de/) and [BeeOrder](beeorder.com). Currently I am a candidate to obtain Master degree in Robotics and Computer Vision at [Innopolis University](https://innopolis.university/).
+My name is Mohamad Al Mdfaa. with over three years of Machine Learning and Software development experience at various companies like [L-One Systems GmbH](https://l-one.de/) and [BeeOrder](beeorder.com). Currently I am a candidate to obtain master's degree in Robotics and Computer Vision at [Innopolis University](https://innopolis.university/).
 
 You can get in touch with me at [mohamad.almdfaa@gmail.com](mohamad.almdfaa@gmail.com), [Linkedin](https://www.linkedin.com/in/mohamad-al-mdfaa/), and [Twitter](https://twitter.com/mohamadalmadfaa).
 
-If you have a project or something that you want from me to work on, you can reach me on [Upwork](https://www.upwork.com/freelancers/~01b27e1d505c87af0d).
 <hr>
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mhd-medfa&show_icons=true&theme=default" alt="mhd-medfa" />
 <hr>
 
-### If you like what I do and you want to support me:
 
-Bitcoin address: <a href="bc1q5cjffml32qrvks3xd0hyau8jx3gf5cd04hrn77">
-  <img align="left" alt="Bitcoin" width="22px" src="https://raw.githubusercontent.com/mhd-medfa/mhd-medfa/main/assets/bitcoin.svg.png" />
+Ethereum address-ERC20: <a href="0xcc410ece83a1b53b082536f087e59f60d619b912">
 </a>
-<mark>`bc1q5cjffml32qrvks3xd0hyau8jx3gf5cd04hrn77`</mark>
+<mark>`0xcc410ece83a1b53b082536f087e59f60d619b912`</mark>
 
-Litecoin address: <a href="ltc1q9l4dr8jdtcakhe8qekep9lfwpgscpllxv5zy27">
-  <img align="left" alt="Litecoin" width="22px" src="https://raw.githubusercontent.com/mhd-medfa/mhd-medfa/main/assets/litecoin.svg.png" />
-</a>
-<mark>`ltc1q9l4dr8jdtcakhe8qekep9lfwpgscpllxv5zy27`</mark>
-
-Tether address: <a href="0x0006a16f43D0fdf480bCc88D4398Fe73D6806fc9"> 
-  <img align="left" alt="TetherUSD" width="22px" src="https://raw.githubusercontent.com/mhd-medfa/mhd-medfa/main/assets/tether.svg" />
-</a>
-<mark>`0x0006a16f43D0fdf480bCc88D4398Fe73D6806fc9`</mark>
