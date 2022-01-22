@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mhd-medfa.mhd-medfa)
 <hr>
 
-My name is Mohamad Al Mdfaa. with over three years of Machine Learning and Software development experience at various companies like [L-One Systems GmbH](https://l-one.de/) and [BeeOrder](beeorder.com). Currently I am a candidate to obtain master's degree in Robotics and Computer Vision at [Innopolis University](https://innopolis.university/).
+My name is Mohamad Al Mdfaa. with over three years of Machine Learning and Software development experience at various companies like [L-One Systems GmbH](https://l-one.de/) and [BeeOrder](https://beeorder.com). Currently I am a candidate to obtain master's degree in Robotics and Computer Vision at [Innopolis University](https://innopolis.university/).
 
 You can get in touch with me at [mohamad.almdfaa@gmail.com](mohamad.almdfaa@gmail.com), [Linkedin](https://www.linkedin.com/in/mohamad-al-mdfaa/), and [Twitter](https://twitter.com/mohamadalmadfaa).
 
-<hr>
+<!-- <hr>
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mhd-medfa&show_icons=true&theme=default" alt="mhd-medfa" />
-<hr>
+<hr> -->
 
 
 Ethereum address-ERC20: <a href="0xcc410ece83a1b53b082536f087e59f60d619b912">
