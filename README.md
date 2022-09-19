@@ -19,7 +19,3 @@ Or send me your email right away [mohamad.almdfaa@gmail.com](mohamad.almdfaa@gma
 
 
 
-Ethereum address-ERC20: <a href="0xcc410ece83a1b53b082536f087e59f60d619b912">
-</a>
-<mark>`0xcc410ece83a1b53b082536f087e59f60d619b912`</mark>
-
