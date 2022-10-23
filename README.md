@@ -9,7 +9,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mhd-medfa.mhd-medfa)
 <hr>
 
-My name is Mohamad Al Mdfaa. with over three years of Machine Learning and Software development experience at various companies like [L-One Systems GmbH](https://l-one.de/) and [BeeOrder](https://beeorder.com). Currently I am a candidate to obtain master's degree in Robotics and Computer Vision at [Innopolis University](https://innopolis.university/).
+My name is Mohamad Al Mdfaa, and I've worked in machine learning and software development for over three years at companies such as [L-One Systems GmbH](https://l-one.de/) and [BeeOrder](https://beeorder.com). I graduated with honors from [Innopolis University](https://innopolis.university/) with a master's degree in robotics and computer vision.
 
 Contact me at [Linkedin](https://www.linkedin.com/in/mohamad-al-mdfaa/), [Twitter](https://twitter.com/mohamadalmadfaa).
 
