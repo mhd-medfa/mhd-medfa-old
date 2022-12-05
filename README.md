@@ -10,7 +10,7 @@
 <hr>
 
 Helllo!
-My name is Mohamad Al Mdfaa. I've worked in machine learning and software development for over three years at companies such as [L-One Systems GmbH](https://l-one.de/) and [BeeOrder](https://beeorder.com). I graduated with honors from [Innopolis University](https://innopolis.university/) with a master's degree in robotics and computer vision.
+My name is Mohamad Al Mdfaa. I am a Ph.D. student with 3+ years of industrial experience in the field of machine learning and computer vision. I had the honor to work with multiple teams from different companies like [L-One Systems GmbH](https://l-one.de/) and [BeeOrder](https://beeorder.com). I graduated with honors from [Innopolis University](https://innopolis.university/) with a master's degree in robotics and computer vision.
 
 
 
